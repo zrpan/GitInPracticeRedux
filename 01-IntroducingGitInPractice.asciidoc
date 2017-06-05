@@ -4,3 +4,4 @@ Chapter 1
 Test 'git pull' command
 Test 'git fetch'
 Start chapter 2
+EXTRA

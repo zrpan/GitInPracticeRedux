@@ -3,6 +3,7 @@ The first modification, then modified
 Chapter 1
 Test 'git pull' command
 Test 'git fetch'
+Add Chapter 1 content
 
 Start chapter 2
 EXTRA

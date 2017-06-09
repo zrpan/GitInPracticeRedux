@@ -6,3 +6,5 @@ Test 'git fetch'
 
 Start chapter 2
 EXTRA
+
+Add text

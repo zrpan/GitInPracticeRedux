@@ -6,3 +6,4 @@ Test 'git fetch'
 
 Start chapter 2
 EXTRA
+git cherry

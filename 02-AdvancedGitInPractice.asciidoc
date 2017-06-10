@@ -1,2 +1,3 @@
 Start chapter 2
 EXTRA
+git pull --rebase

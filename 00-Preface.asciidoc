@@ -9,3 +9,4 @@ EXTRA
 
 Add text
 git reset
+git pull --rebase
